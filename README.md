@@ -60,7 +60,7 @@ Cross-platform: Developed in Unity, the game is compatible with multiple platfor
 # Gameplay
 https://github.com/ismaelucky342/GameJam2024/assets/153450550/48038ec1-1f2b-4840-a31a-1f94321a1f05
 
-https://drive.google.com/drive/home
+file:///home/rde-migu/Downloads/Teaser%20Take%20or%20Deal%20(1).mp4
 - [Original game music and sounds](https://github.com/ismaelucky342/GameJam2024/tree/main/Original%20game%20music%20and%20sounds)
 
 - [Game images](https://github.com/ismaelucky342/GameJam2024/tree/main/Game%20images)
